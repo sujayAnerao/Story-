@@ -6,3 +6,5 @@ git commit -m "message inside in present tense for good practise"
 git diff filename 
 git remote add origin then the link 
 git push -u origin master
+git checkout filename is used to roll back to the previous version of the file 
+git add filename 
