@@ -1,0 +1,8 @@
+This text file is just to revise the command used for understanding github controls.
+git init is used when we want to initialise git repository inside any folder.
+git status 
+git log
+git commit -m "message inside in present tense for good practise"
+git diff filename 
+git remote add origin then the link 
+git push -u origin master
